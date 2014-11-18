@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="DEVANAGARI_DANDA" format="1">
+  <advance width="252"/>
+  <unicode hex="0964"/>
+  <outline>
+	<contour>
+	  <point x="164" y="482" type="line"/>
+	  <point x="164" y="-22" type="line"/>
+	  <point x="83" y="-22" type="line"/>
+	  <point x="83" y="482" type="line"/>
+	</contour>
+  </outline>
+</glyph>

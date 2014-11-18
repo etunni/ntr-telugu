@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="OO" format="1">
+  <advance width="713"/>
+  <unicode hex="0C13"/>
+  <outline>
+	<component base="uni0C12"/>
+	<component base="uni0C55" xOffset="156" yOffset="-225"/>
+  </outline>
+  <lib>
+	<dict>
+	  <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+	  <integer>6</integer>
+	  <key>public.markColor</key>
+	  <string>0,0.67,0.91,1</string>
+	</dict>
+  </lib>
+</glyph>

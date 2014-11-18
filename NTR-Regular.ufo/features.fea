@@ -1,0 +1,28 @@
+# Prefix: Languagesystems
+# automatic
+languagesystem DFLT dflt;
+languagesystem dev2 dflt;
+languagesystem deva dflt;
+languagesystem latn dflt;
+languagesystem telu dflt;
+
+# automatic
+@Uppercase = [ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z AA OO U.telu ];
+
+feature aalt {
+# automatic
+feature frac;
+} aalt;
+
+feature frac {
+# automatic
+sub one slash four by onequarter;
+sub one slash two by onehalf;
+sub three slash four by threequarters;
+} frac;
+
+feature cpsp {
+# automatic
+pos @Uppercase <5 0 10 0>;
+} cpsp;
+
