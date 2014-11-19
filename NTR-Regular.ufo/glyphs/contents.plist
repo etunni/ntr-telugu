@@ -908,6 +908,8 @@
 	<string>S_S_aU_U_.glif</string>
 	<key>Sa</key>
 	<string>S_a.glif</string>
+	<key>Sa.base</key>
+	<string>S_a.base.glif</string>
 	<key>SaAA</key>
 	<string>S_aA_A_.glif</string>
 	<key>SaAU</key>

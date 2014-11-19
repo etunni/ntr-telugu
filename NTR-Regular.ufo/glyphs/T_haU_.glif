@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ThaU" format="1">
-  <advance width="1018"/>
+  <advance width="1016"/>
   <outline>
-	<component base="UMatra" xOffset="657"/>
+	<component base="UMatra" xOffset="647"/>
 	<component base="Tha"/>
   </outline>
   <lib>
