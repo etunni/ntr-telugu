@@ -7,13 +7,13 @@
 		<key>GSCornerRadius</key>
 		<integer>60</integer>
 		<key>GSOffsetHorizontal</key>
-		<real>30</real>
+		<integer>30</integer>
 		<key>GSOffsetMakeStroke</key>
 		<integer>1</integer>
 		<key>GSOffsetProportional</key>
-		<true/>
+		<integer>1</integer>
 		<key>GSOffsetVertical</key>
-		<real>10</real>
+		<integer>10</integer>
 		<key>angle</key>
 		<integer>0</integer>
 		<key>height</key>
@@ -742,6 +742,8 @@
 		<string>ch774</string>
 		<string>KshaAI</string>
 		<string>U.telu</string>
+		<string>Ta.base</string>
+		<string>Sha.base</string>
 		<string>LLa.base</string>
 		<string>UU.telu</string>
 		<string>DDa.base</string>
@@ -757,6 +759,7 @@
 		<string>Da.base</string>
 		<string>mark.inferior</string>
 		<string>Pha.base</string>
+		<string>Ya.base</string>
 	</array>
 </dict>
 </plist>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LLaAA" format="1">
-  <advance width="939"/>
+  <advance width="856"/>
   <outline>
 	<component base="LLa.base"/>
-	<component base="AAMatra" xOffset="366"/>
+	<component base="AAMatra" xOffset="366" xScale="0.85"/>
   </outline>
   <lib>
 	<dict>
