@@ -452,6 +452,10 @@
 	<string>K_.glif</string>
 	<key>Ka</key>
 	<string>K_a.glif</string>
+	<key>Ka.base</key>
+	<string>K_a.base.glif</string>
+	<key>Ka.base01</key>
+	<string>K_a.base01.glif</string>
 	<key>KaAA</key>
 	<string>K_aA_A_.glif</string>
 	<key>KaAU</key>

@@ -5,7 +5,7 @@
 	<key>com.schriftgestaltung.fontMaster.userData</key>
 	<dict>
 		<key>GSCornerRadius</key>
-		<integer>60</integer>
+		<integer>50</integer>
 		<key>GSOffsetHorizontal</key>
 		<integer>30</integer>
 		<key>GSOffsetMakeStroke</key>
@@ -13,7 +13,7 @@
 		<key>GSOffsetProportional</key>
 		<integer>1</integer>
 		<key>GSOffsetVertical</key>
-		<integer>10</integer>
+		<real>27.5</real>
 		<key>angle</key>
 		<integer>0</integer>
 		<key>height</key>
@@ -742,6 +742,7 @@
 		<string>ch774</string>
 		<string>KshaAI</string>
 		<string>U.telu</string>
+		<string>Ka.base</string>
 		<string>Sa.base</string>
 		<string>Ta.base</string>
 		<string>Sha.base</string>
@@ -761,6 +762,7 @@
 		<string>mark.inferior</string>
 		<string>Pha.base</string>
 		<string>Ya.base</string>
+		<string>Ka.base01</string>
 	</array>
 </dict>
 </plist>

@@ -4,6 +4,9 @@
   <outline>
 	<component base="Ca.base"/>
 	<component base="Halanth" xOffset="407"/>
+	<contour>
+	  <point x="394" y="860" type="move" name="nukta"/>
+	</contour>
   </outline>
   <lib>
 	<dict>
