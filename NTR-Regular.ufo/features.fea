@@ -6,23 +6,21 @@ languagesystem deva dflt;
 languagesystem latn dflt;
 languagesystem telu dflt;
 
-# automatic
-@Uppercase = [ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z AA OO U.telu ];
-
-feature aalt {
-# automatic
-feature frac;
-} aalt;
-
-feature frac {
-# automatic
-sub one slash four by onequarter;
-sub one slash two by onehalf;
-sub three slash four by threequarters;
-} frac;
-
-feature cpsp {
-# automatic
-pos @Uppercase <5 0 10 0>;
-} cpsp;
+feature liga {
+sub Ca Imatra by CaI;
+sub DDa Imatra by DDaI;
+sub Va Imatra by VaI;
+sub Ka Imatra by KaI;
+sub Pa Imatra by PaI;
+sub Bha Imatra by BhaI;
+sub Ca IIMatra by CaII;
+sub Va IIMatra by VaII;
+sub Ka IIMatra by KaII;
+sub Pa IIMatra by PaII;
+sub DDaI AAMatra' by YaU;
+sub Ca AAMatra by CaAA;
+sub Ta uni0C46 by TaE;
+sub La OOMatra by LaOO;
+sub Ga UMatra by GaU;
+} liga;
 

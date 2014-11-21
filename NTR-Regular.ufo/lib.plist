@@ -5,15 +5,11 @@
 	<key>com.schriftgestaltung.fontMaster.userData</key>
 	<dict>
 		<key>GSCornerRadius</key>
-		<integer>50</integer>
+		<real>50</real>
 		<key>GSOffsetHorizontal</key>
-		<integer>30</integer>
-		<key>GSOffsetMakeStroke</key>
-		<integer>1</integer>
-		<key>GSOffsetProportional</key>
-		<integer>1</integer>
+		<integer>60</integer>
 		<key>GSOffsetVertical</key>
-		<real>27.5</real>
+		<integer>55</integer>
 		<key>angle</key>
 		<integer>0</integer>
 		<key>height</key>

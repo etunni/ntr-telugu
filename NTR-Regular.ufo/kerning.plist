@@ -2,6 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AA</key>
+	<dict>
+		<key>Ra</key>
+		<integer>-20</integer>
+	</dict>
+	<key>CaAA</key>
+	<dict>
+		<key>Ra</key>
+		<integer>-90</integer>
+	</dict>
 	<key>Kaottu</key>
 	<dict>
 		<key>RMatra</key>
@@ -11,6 +21,11 @@
 	<dict>
 		<key>RMatra</key>
 		<integer>76</integer>
+	</dict>
+	<key>Ra</key>
+	<dict>
+		<key>UMatra</key>
+		<integer>0</integer>
 	</dict>
 	<key>Ta</key>
 	<dict>

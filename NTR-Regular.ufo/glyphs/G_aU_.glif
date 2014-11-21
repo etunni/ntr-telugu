@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="GaU" format="1">
-  <advance width="939"/>
+  <advance width="928"/>
   <outline>
 	<component base="Ga"/>
-	<component base="UMatra" xOffset="570"/>
+	<component base="UMatra" xOffset="559"/>
   </outline>
   <lib>
 	<dict>
