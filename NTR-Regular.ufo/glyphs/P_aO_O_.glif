@@ -1,22 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="PaOO" format="1">
-  <advance width="613"/>
+  <advance width="777"/>
   <outline>
-	<contour>
-	  <point x="161" y="368" type="line"/>
-	  <point x="393" y="368" type="line"/>
-	  <point x="393" y="423" type="line"/>
-	  <point x="161" y="423" type="line"/>
-	</contour>
-	<component base="Pa.base"/>
-	<component base="OOMatra" xOffset="162"/>
+	<component base="Pa.base.001"/>
+	<component base="OOMatra" xOffset="232"/>
   </outline>
   <lib>
 	<dict>
 	  <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-	  <integer>1</integer>
+	  <integer>6</integer>
 	  <key>public.markColor</key>
-	  <string>0.99,0.62,0.11,1</string>
+	  <string>0,0.67,0.91,1</string>
 	</dict>
   </lib>
 </glyph>

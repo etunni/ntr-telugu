@@ -344,6 +344,8 @@
 	<string>H_.glif</string>
 	<key>Ha</key>
 	<string>H_a.glif</string>
+	<key>Ha.base</key>
+	<string>H_a.base.glif</string>
 	<key>HaAA</key>
 	<string>H_aA_A_.glif</string>
 	<key>HaAU</key>
@@ -754,6 +756,8 @@
 	<string>P_a.glif</string>
 	<key>Pa.base</key>
 	<string>P_a.base.glif</string>
+	<key>Pa.base.001</key>
+	<string>P_a.base.001.glif</string>
 	<key>PaAA</key>
 	<string>P_aA_A_.glif</string>
 	<key>PaAU</key>
@@ -886,6 +890,8 @@
 	<string>S_H_N_aO_ttu.glif</string>
 	<key>SSa</key>
 	<string>S_S_a.glif</string>
+	<key>SSa.base</key>
+	<string>S_S_a.base.glif</string>
 	<key>SSaAA</key>
 	<string>S_S_aA_A_.glif</string>
 	<key>SSaAU</key>
@@ -978,6 +984,8 @@
 	<string>T_R_aO_ttu.glif</string>
 	<key>TTHaOttu</key>
 	<string>T_T_H_aO_ttu.glif</string>
+	<key>TTa.base</key>
+	<string>T_T_a.base.glif</string>
 	<key>TTaAA</key>
 	<string>T_T_aA_A_.glif</string>
 	<key>TTaAU</key>

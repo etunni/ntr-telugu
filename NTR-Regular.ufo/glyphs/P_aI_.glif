@@ -2,15 +2,15 @@
 <glyph name="PaI" format="1">
   <advance width="613"/>
   <outline>
-	<component base="Pa.base"/>
+	<component base="Pa.base.001"/>
 	<component base="Imatra" xOffset="180"/>
   </outline>
   <lib>
 	<dict>
 	  <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-	  <integer>1</integer>
+	  <integer>6</integer>
 	  <key>public.markColor</key>
-	  <string>0.99,0.62,0.11,1</string>
+	  <string>0,0.67,0.91,1</string>
 	</dict>
   </lib>
 </glyph>
