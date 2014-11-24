@@ -5,15 +5,11 @@
 	<key>com.schriftgestaltung.fontMaster.userData</key>
 	<dict>
 		<key>GSCornerRadius</key>
-		<integer>80</integer>
+		<integer>60</integer>
 		<key>GSOffsetHorizontal</key>
-		<integer>30</integer>
-		<key>GSOffsetMakeStroke</key>
-		<integer>1</integer>
-		<key>GSOffsetProportional</key>
-		<integer>1</integer>
+		<real>3.5</real>
 		<key>GSOffsetVertical</key>
-		<real>27.5</real>
+		<integer>2</integer>
 		<key>angle</key>
 		<integer>0</integer>
 		<key>height</key>
@@ -767,6 +763,8 @@
 		<string>Ka.base01</string>
 		<string>Pa.base.001</string>
 		<string>TTa.base</string>
+		<string>Ksha.base</string>
+		<string>Ksha.base.001</string>
 	</array>
 </dict>
 </plist>

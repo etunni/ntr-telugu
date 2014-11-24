@@ -512,6 +512,10 @@
 	<string>K_shN_naA_I_.glif</string>
 	<key>Ksha</key>
 	<string>K_sha.glif</string>
+	<key>Ksha.base</key>
+	<string>K_sha.base.glif</string>
+	<key>Ksha.base.001</key>
+	<string>K_sha.base.001.glif</string>
 	<key>KshaAA</key>
 	<string>K_shaA_A_.glif</string>
 	<key>KshaAI</key>

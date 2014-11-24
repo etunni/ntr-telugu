@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Ksha" format="1">
-  <advance width="488"/>
+<glyph name="PaO" format="1">
+  <advance width="810"/>
   <outline>
-	<component base="Ka"/>
-	<component base="Ksha.base.001"/>
+	<component base="Pa.base.001"/>
+	<component base="OMatra" xOffset="232"/>
   </outline>
   <lib>
 	<dict>
 	  <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-	  <integer>1</integer>
+	  <integer>6</integer>
 	  <key>public.markColor</key>
-	  <string>0.99,0.62,0.11,1</string>
+	  <string>0,0.67,0.91,1</string>
 	</dict>
   </lib>
 </glyph>
