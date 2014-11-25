@@ -3,7 +3,7 @@
   <advance width="1244"/>
   <outline>
 	<component base="Pha.base"/>
-	<component base="U.telu" xOffset="623"/>
+	<component base="UMatra.telu" xOffset="623"/>
 	<component base="uni0C46" xOffset="141" xScale="0.85"/>
   </outline>
   <lib>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="DhaU" format="1">
-  <advance width="1018"/>
+  <advance width="1026"/>
   <outline>
 	<component base="Da"/>
 	<component base="UMatra" xOffset="657"/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="MaUU" format="1">
-  <advance width="1374"/>
+  <advance width="1389"/>
   <outline>
 	<component base="Va"/>
 	<component base="UU.telu" xOffset="571"/>

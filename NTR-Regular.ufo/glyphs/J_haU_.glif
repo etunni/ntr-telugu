@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="JhaU" format="1">
-  <advance width="1578"/>
+  <advance width="1576"/>
   <outline>
 	<component base="Ra"/>
 	<component base="UMatra" xOffset="596"/>
-	<component base="U.telu" xOffset="965"/>
+	<component base="UMatra.telu" xOffset="955"/>
 	<component base="mark.inferior" xOffset="817"/>
   </outline>
   <lib>

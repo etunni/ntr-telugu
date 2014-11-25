@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="JhaE" format="1">
-  <advance width="1318"/>
+  <advance width="1326"/>
   <outline>
 	<component base="RaE"/>
 	<component base="UMatra" xOffset="596"/>

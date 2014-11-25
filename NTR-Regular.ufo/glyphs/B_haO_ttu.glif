@@ -3,14 +3,14 @@
   <advance width="231"/>
   <outline>
 	<component base="BaOttu"/>
-	<component base="mark.inferior" xOffset="-104" yOffset="-285" xScale="0.909" yScale="0.909"/>
+	<component base="mark.inferior" xOffset="-96" yOffset="-343" xScale="0.79" yScale="0.79"/>
   </outline>
   <lib>
 	<dict>
 	  <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-	  <integer>1</integer>
+	  <integer>6</integer>
 	  <key>public.markColor</key>
-	  <string>0.99,0.62,0.11,1</string>
+	  <string>0,0.67,0.91,1</string>
 	</dict>
   </lib>
 </glyph>

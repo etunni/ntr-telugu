@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="YaI" format="1">
-  <advance width="1204"/>
+  <advance width="1212"/>
   <outline>
 	<component base="Ra.base"/>
-	<component base="U.telu" xOffset="591"/>
+	<component base="UMatra.telu" xOffset="591"/>
   </outline>
   <lib>
 	<dict>

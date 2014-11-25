@@ -3,19 +3,20 @@
 languagesystem DFLT dflt;
 languagesystem dev2 dflt;
 languagesystem deva dflt;
+languagesystem grek dflt;
 languagesystem latn dflt;
 languagesystem telu dflt;
+languagesystem latn CAT;
 
 # Prefix: morx
 # automatic
 
 
 # automatic
-@Uppercase = [ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z AA OO U.telu ];
+@Uppercase = [ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z AA OO Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Aringacute Atilde AE AEacute Cacute Ccaron Ccedilla Ccircumflex Cdotaccent Eth Dcaron Dcroat Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek Gbreve Gcircumflex Gdotaccent Hbar Hcircumflex IJ Iacute Ibreve Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde Jcircumflex Lacute Lcaron Ldot Lslash Nacute Ncaron Eng Ntilde Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Oslashacute Otilde OE Thorn Racute Rcaron Sacute Scaron Scedilla Scircumflex Tbar Tcaron Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde Wacute Wcircumflex Wdieresis Wgrave Yacute Ycircumflex Ydieresis Ygrave Zacute Zcaron Zdotaccent uni0122 uni0136 uni013B uni0145 uni0156 uni0162 uni0218 uni021A U.telu Delta uni0394 Omega uni03A9 ];
 
 feature aalt {
 # automatic
-feature frac;
 feature nukt;
 feature akhn;
 feature blwf;
@@ -23,7 +24,27 @@ feature blws;
 feature psts;
 feature abvs;
 feature haln;
+feature sups;
+feature frac;
+feature ordn;
+feature case;
+feature locl;
 } aalt;
+
+feature locl {
+# automatic
+script latn;
+language CAT;
+sub  l' periodcentered' l by ldot;
+sub  L' periodcentered' L by Ldot;
+} locl;
+
+feature sups {
+# automatic
+sub one by onesuperior;
+sub two by twosuperior;
+sub three by threesuperior;
+} sups;
 
 feature frac {
 # automatic
@@ -31,6 +52,34 @@ sub one slash four by onequarter;
 sub one slash two by onehalf;
 sub three slash four by threequarters;
 } frac;
+
+feature ordn {
+# automatic
+sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+} ordn;
+
+feature case {
+# automatic
+sub acute by acute.case;
+sub breve by breve.case;
+sub caron by caron.case;
+sub circumflex by circumflex.case;
+sub dieresis by dieresis.case;
+sub dotaccent by dotaccent.case;
+sub grave by grave.case;
+sub hungarumlaut by hungarumlaut.case;
+sub macron by macron.case;
+sub ring by ring.case;
+sub tilde by tilde.case;
+sub ringacute by ringacute.case;
+} case;
+
+feature liga {
+# automatic
+sub f i by fi;
+sub f l by fl;
+} liga;
 
 feature cpsp {
 # automatic

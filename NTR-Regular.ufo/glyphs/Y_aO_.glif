@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="YaO" format="1">
-  <advance width="1578"/>
+  <advance width="1569"/>
   <outline>
 	<component base="Ra.base"/>
-	<component base="U.telu" xOffset="965"/>
+	<component base="UMatra.telu" xOffset="948"/>
 	<component base="UMatra" xOffset="596"/>
 	<component base="uni0C46" xOffset="657"/>
   </outline>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="JhaII" format="1">
-  <advance width="1310"/>
+  <advance width="1318"/>
   <outline>
 	<component base="TThaII"/>
 	<component base="UMatra" xOffset="949"/>
