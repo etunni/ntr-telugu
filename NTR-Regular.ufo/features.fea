@@ -13,10 +13,15 @@ languagesystem latn CAT;
 
 
 # automatic
-@Uppercase = [ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z AA OO Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Aringacute Atilde AE AEacute Cacute Ccaron Ccedilla Ccircumflex Cdotaccent Eth Dcaron Dcroat Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek Gbreve Gcircumflex Gdotaccent Hbar Hcircumflex IJ Iacute Ibreve Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde Jcircumflex Lacute Lcaron Ldot Lslash Nacute Ncaron Eng Ntilde Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Oslashacute Otilde OE Thorn Racute Rcaron Sacute Scaron Scedilla Scircumflex Tbar Tcaron Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde Wacute Wcircumflex Wdieresis Wgrave Yacute Ycircumflex Ydieresis Ygrave Zacute Zcaron Zdotaccent uni0122 uni0136 uni013B uni0145 uni0156 uni0162 uni0218 uni021A U.telu Delta uni0394 Omega uni03A9 ];
+@Uppercase = [ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z AA OO Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Aringacute Atilde AE AEacute Cacute Ccaron Ccedilla Ccircumflex Cdotaccent Eth Dcaron Dcroat Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek Gbreve Gcircumflex Gdotaccent Hbar Hcircumflex IJ Iacute Ibreve Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde Jcircumflex Lacute Lcaron Ldot Lslash Nacute Ncaron Eng Ntilde Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Oslashacute Otilde OE Thorn Racute Rcaron Sacute Scaron Scedilla Scircumflex Tbar Tcaron Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde Wacute Wcircumflex Wdieresis Wgrave Yacute Ycircumflex Ydieresis Ygrave Zacute Zcaron Zdotaccent uni0122 uni0136 uni013B uni0145 uni0156 uni0162 uni0218 uni021A Delta uni0394 Omega uni03A9 ];
 
 feature aalt {
 # automatic
+feature locl;
+feature sups;
+feature frac;
+feature ordn;
+feature case;
 feature nukt;
 feature akhn;
 feature blwf;
@@ -24,11 +29,6 @@ feature blws;
 feature psts;
 feature abvs;
 feature haln;
-feature sups;
-feature frac;
-feature ordn;
-feature case;
-feature locl;
 } aalt;
 
 feature locl {

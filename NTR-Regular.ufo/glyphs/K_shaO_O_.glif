@@ -3,10 +3,10 @@
   <advance width="724"/>
   <outline>
 	<contour>
-	  <point x="178" y="368" type="line"/>
 	  <point x="230" y="368" type="line"/>
 	  <point x="276" y="423" type="line"/>
 	  <point x="178" y="423" type="line"/>
+	  <point x="178" y="368" type="line"/>
 	</contour>
 	<component base="Ka.base"/>
 	<component base="OOMatra" xOffset="179"/>

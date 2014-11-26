@@ -3,10 +3,10 @@
   <advance width="709"/>
   <outline>
 	<contour>
-	  <point x="133" y="368" type="line"/>
 	  <point x="232" y="368" type="line"/>
 	  <point x="232" y="400" type="line"/>
 	  <point x="133" y="400" type="line"/>
+	  <point x="133" y="368" type="line"/>
 	</contour>
 	<component base="Pa.base.001"/>
 	<component base="AuMatra" xOffset="122"/>

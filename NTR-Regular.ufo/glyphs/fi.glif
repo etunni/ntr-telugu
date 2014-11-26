@@ -4,10 +4,10 @@
   <unicode hex="FB01"/>
   <outline>
 	<contour>
-	  <point x="176" y="370" type="line"/>
 	  <point x="343" y="370" type="line"/>
 	  <point x="343" y="425" type="line"/>
 	  <point x="176" y="425" type="line"/>
+	  <point x="176" y="370" type="line"/>
 	</contour>
 	<component base="f"/>
 	<component base="dotlessi" xOffset="236"/>
