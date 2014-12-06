@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Idieresis" format="1">
+  <advance width="214"/>
+  <unicode hex="00CF"/>
+  <outline>
+	<contour>
+	  <point x="125" y="-4"/>
+	  <point x="141" y="11"/>
+	  <point x="141" y="30" type="curve" smooth="yes"/>
+	  <point x="141" y="493" type="line" smooth="yes"/>
+	  <point x="141" y="512"/>
+	  <point x="125" y="527"/>
+	  <point x="107" y="527" type="curve" smooth="yes"/>
+	  <point x="88" y="527"/>
+	  <point x="73" y="512"/>
+	  <point x="73" y="493" type="curve" smooth="yes"/>
+	  <point x="73" y="30" type="line" smooth="yes"/>
+	  <point x="73" y="11"/>
+	  <point x="88" y="-4"/>
+	  <point x="107" y="-4" type="curve" smooth="yes"/>
+	</contour>
+	<contour>
+	  <point x="65" y="560"/>
+	  <point x="83" y="578"/>
+	  <point x="83" y="599" type="curve" smooth="yes"/>
+	  <point x="83" y="620"/>
+	  <point x="65" y="637"/>
+	  <point x="44" y="637" type="curve" smooth="yes"/>
+	  <point x="23" y="637"/>
+	  <point x="6" y="620"/>
+	  <point x="6" y="599" type="curve" smooth="yes"/>
+	  <point x="6" y="578"/>
+	  <point x="23" y="560"/>
+	  <point x="44" y="560" type="curve" smooth="yes"/>
+	</contour>
+	<contour>
+	  <point x="192" y="560"/>
+	  <point x="209" y="578"/>
+	  <point x="209" y="599" type="curve" smooth="yes"/>
+	  <point x="209" y="620"/>
+	  <point x="192" y="637"/>
+	  <point x="171" y="637" type="curve" smooth="yes"/>
+	  <point x="150" y="637"/>
+	  <point x="133" y="620"/>
+	  <point x="133" y="599" type="curve" smooth="yes"/>
+	  <point x="133" y="578"/>
+	  <point x="150" y="560"/>
+	  <point x="171" y="560" type="curve" smooth="yes"/>
+	</contour>
+  </outline>
+  <lib>
+	<dict>
+	  <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+	  <integer>9</integer>
+	  <key>public.markColor</key>
+	  <string>0.98,0.36,0.67,1</string>
+	</dict>
+  </lib>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ch772" format="1">
+  <advance width="10"/>
+  <outline>
+	<component base="ch763" xOffset="-9" yOffset="-213"/>
+	<component base="JaOttu"/>
+	<component base="NyaOttu" xOffset="205" yOffset="-379" xScale="0.7" yScale="0.8"/>
+  </outline>
+  <lib>
+	<dict>
+	  <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+	  <integer>6</integer>
+	  <key>public.markColor</key>
+	  <string>0,0.67,0.91,1</string>
+	</dict>
+  </lib>
+</glyph>
